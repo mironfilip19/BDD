@@ -1,0 +1,12 @@
+Index: BDD/src/main/java/main.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/BDD/src/main/java/main.java b/BDD/src/main/java/main.java
+new file mode 100644
+--- /dev/null	(date 1645477457439)
++++ b/BDD/src/main/java/main.java	(date 1645477457439)
+@@ -0,0 +1,2 @@
++public class main {
++}
